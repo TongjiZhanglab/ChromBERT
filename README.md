@@ -127,15 +127,13 @@ Explore detailed examples of how to fine-tune ChromBERT for downstream tasks suc
 ## Citing ChromBERT
 
 ```bibtex
-@article {Yu2025.03.29.646077,
-	author = {Yu, Zhaowei and Yang, Dongxu and Chen, Qianqian and Zhang, Yuxuan and Li, Zhanhao and Wang, Yucheng and Wang, Chenfei and Zhang, Yong},
-	title = {Learning interpretable representation for context-specific transcription regulatory networks using a foundation model},
-	year = {2025},
-	doi = {10.1101/2025.03.29.646077},
-	publisher = {Cold Spring Harbor Laboratory},
-	journal = {bioRxiv}
+@article{yu2026chrombert,
+  title={ChromBERT: A foundation model for learning interpretable representations for context-specific transcriptional regulatory networks},
+  author={Yu, Zhaowei and Yang, Dongxu and Chen, Qianqian and Zhang, Yuxuan and Li, Zhanhao and Wang, Yucheng and Wang, Chenfei and Zhang, Yong},
+  journal={Cell Genomics},
+  publisher={Elsevier}
 }
 ```
 
 ## Contact us
-If you have any questions or suggestions, please feel free to contact us at [zhaoweiyu@tongji.edu.cn](mailto:zhaoweiyu@tongji.edu.cn).
+If you have any questions or suggestions, please feel free to contact [Dr. Zhaowei Yu](mailto:zhaoweiyu@tongji.edu.cn).
